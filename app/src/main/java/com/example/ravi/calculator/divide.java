@@ -8,6 +8,12 @@ public class divide {
     public static void tt(){
 
         System.out.println("ffllll");
+        System.out.println("ffllll");
+        System.out.println("ffllll");
+        System.out.println("ffllll");
+        System.out.println("ffllll");
+        System.out.println("ffllll");
+        System.out.println("ffllll");
 
 
     }
